@@ -2,22 +2,23 @@ import numpy as np
 from numpy.linalg import * 
 import matplotlib.pyplot as plt
 from random import *
+import math
 
-n=10
+n=100
 x = [i for i in range(1,n+1)]
-y = [i*i+randint(-5,5)*i for i in range(1,n+1)]
+y = [i*i+randint(-2500,2500) for i in range(1,n+1)]
+#y = [(0.001*i**2)+randint(-1,1) for i in range(1,n+1)]
 z = [i+randint(-3,3) for i in x]
+plt.scatter(x, y)
 
 def reg(x,y,A):
-	plt.scatter(x, y)
 
-	
 	b = np.matrix([y]).transpose()
 	normal = inv(A.transpose()*A)*A.transpose()*b
 
-	print("\nData points:")
-	for i in range(0,len(x)):
-		print("(%d,%d)" % (x[i],y[i]), sep=' ',end='',flush=True)
+	#print("\nData points:")
+	#for i in range(0,len(x)):
+	#	print("(%d,%d)" % (x[i],y[i]), sep=' ',end='',flush=True)
 
 	return normal
 
