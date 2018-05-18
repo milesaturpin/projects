@@ -1,0 +1,865 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cost",
+				"cost_lst\tlist"
+			],
+			[
+				"tr",
+				"turing\tturing"
+			],
+			[
+				"get",
+				"get_candidate_locations\tget_candidate_locations"
+			],
+			[
+				"iron",
+				"ironman_reader\t"
+			],
+			[
+				"pop",
+				"popleft\tfunction"
+			],
+			[
+				"sig",
+				"signature"
+			],
+			[
+				"col",
+				"col_num\t0"
+			],
+			[
+				"decr",
+				"decrypted_msg\t\"\" | str"
+			],
+			[
+				"dec",
+				"decrypted_msg\t\"\" | str"
+			],
+			[
+				"encr",
+				"encryption\t\"-Atvt hrqgse, Cnikg\""
+			],
+			[
+				"enc",
+				"encrypted_message\t"
+			],
+			[
+				"en",
+				"encrypted_message\t"
+			],
+			[
+				"key",
+				"key_list\tlist"
+			],
+			[
+				"int",
+				"int_form\tint"
+			],
+			[
+				"der",
+				"derivList\ttypes.FunctionType"
+			],
+			[
+				"pos",
+				"posted_by"
+			],
+			[
+				"post",
+				"posted_by_id\t"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"l",
+				"load\tfunction"
+			],
+			[
+				"sq",
+				"square_dydx_lst\tlist"
+			],
+			[
+				"square",
+				"square_lst"
+			],
+			[
+				"p",
+				"plot"
+			],
+			[
+				"sample",
+				"sample_size\t5"
+			],
+			[
+				"sam",
+				"sample_size\t5"
+			],
+			[
+				"uni",
+				"unique_size"
+			],
+			[
+				"un",
+				"unique\t0"
+			],
+			[
+				"birt",
+				"birthdays_lst"
+			],
+			[
+				"eig",
+				"eigenvalues\tnumpy.ndarray"
+			],
+			[
+				"v",
+				"violinplot\tfunction"
+			],
+			[
+				"rand",
+				"randint\trandom.randint"
+			],
+			[
+				"person",
+				"person-id"
+			],
+			[
+				"pers",
+				"person-id"
+			],
+			[
+				"per",
+				"person-id"
+			],
+			[
+				"student",
+				"student_id"
+			],
+			[
+				"id",
+				"student_id"
+			],
+			[
+				"teach",
+				"teacher_id"
+			],
+			[
+				"sub",
+				"subject_name"
+			],
+			[
+				"STUDENT",
+				"student_id"
+			],
+			[
+				"SUJ",
+				"subject_name"
+			],
+			[
+				"STUD",
+				"student_id"
+			],
+			[
+				"SUBJ",
+				"subject_name"
+			],
+			[
+				"listNode",
+				"listNode2"
+			],
+			[
+				"lis",
+				"listNode1"
+			],
+			[
+				"print",
+				"printYourName〔function〕"
+			],
+			[
+				"reduc",
+				"reduced_data〔variable〕"
+			],
+			[
+				"cred",
+				"created_at〔variable〕"
+			],
+			[
+				"Strea",
+				"StreamListener"
+			],
+			[
+				"ac",
+				"access_token_secret〔variable〕"
+			],
+			[
+				"consum",
+				"consumer_secret〔variable〕"
+			],
+			[
+				"init",
+				"initial_grid〔variable〕"
+			],
+			[
+				"deal",
+				"default_grid〔variable〕"
+			],
+			[
+				"rule",
+				"rules_list"
+			],
+			[
+				"rules",
+				"rules_tuples〔variable〕"
+			],
+			[
+				"out",
+				"outer_total〔variable〕"
+			],
+			[
+				"next",
+				"next_grid"
+			],
+			[
+				"pycxsi",
+				"pycxsimulator1〔module〕"
+			],
+			[
+				"sim",
+				"simple_rule〔function〕"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"py",
+				"pyplot〔module〕"
+			],
+			[
+				"cal",
+				"calc_accel_vector"
+			],
+			[
+				"ca",
+				"calc_force"
+			],
+			[
+				"plan",
+				"planets_list"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"uithem",
+				"UI: Select Theme"
+			],
+			[
+				"uic",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"key binding",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"project:",
+				"Project: Refresh Folders"
+			],
+			[
+				"new vie",
+				"File: New View into File"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"kite",
+				"Kite: Detect Conflicting Plugins"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pakcag",
+				"Package Control: Install Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"repl: python",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl: py",
+				"SublimeREPL: Python"
+			],
+			[
+				"subli",
+				"SublimeREPL: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"which latex",
+			"python3 pycx-ca.py",
+			"which python",
+			"python3",
+			"type(master)",
+			"type(master",
+			"python3 pycx-ca.py",
+			"import networks.py",
+			"python3 networks.py",
+			"g.nodes()",
+			"2+2",
+			"x = 2",
+			"which pylint",
+			"hash -r",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/milesturpin/Dev/projects"
+	],
+	"file_history":
+	[
+		"/Users/milesturpin/Dev/projects/car.py",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/Default/Distraction Free.sublime-settings",
+		"/Users/milesturpin/Dev/cellular-automata/rules.py",
+		"/Users/milesturpin/Dev/cellular-automata/pycx-ca.py",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/milesturpin/Dev/projects/gradient-descent.py",
+		"/Users/milesturpin/math340-final.tex",
+		"/Users/milesturpin/final.py",
+		"/Users/milesturpin/Desktop/haley-thesis/minds-identity-fusion.tex",
+		"/Users/milesturpin/Desktop/haley-thesis/dissertation.tex",
+		"/Users/milesturpin/Desktop/haley-thesis/2-Brain-Machine-Interfaces/guide-notes.tex",
+		"/Users/milesturpin/Desktop/phil246-final.tex",
+		"/Users/milesturpin/Desktop/thesis.tex",
+		"/Users/milesturpin/Dev/latex/phil246-final.tex",
+		"/Users/milesturpin/Dev/latex/test.tex",
+		"/Users/milesturpin/Dev/latex/phil246-wa6.tex",
+		"/Users/milesturpin/Downloads/template_latex_duke_university_dissertation/Chapter3/extended-mind.tex",
+		"/Users/milesturpin/Downloads/template_latex_duke_university_dissertation/Chapter4/how-many-minds.tex",
+		"/Users/milesturpin/Downloads/template_latex_duke_university_dissertation/Chapter2/brain-machine-interfaces.tex",
+		"/Users/milesturpin/Downloads/template_latex_duke_university_dissertation/Chapter1/introduction.tex",
+		"/Users/milesturpin/Downloads/template_latex_duke_university_dissertation/Chapter5/personal-identity.tex",
+		"/Users/milesturpin/Downloads/template_latex_duke_university_dissertation/Chapter5/conclusion.tex",
+		"/Users/milesturpin/Downloads/template_latex_duke_university_dissertation/Chapter5/fusion-death.tex",
+		"/Users/milesturpin/Dev/latex/cv_14/cv-sections/education.tex",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/User/OneDarkMaterial.sublime-theme",
+		"/Users/milesturpin/Dev/cs330/cs330-hw11-3.tex",
+		"/Users/milesturpin/Dev/cs330/cs330-hw11-2.tex",
+		"/Users/milesturpin/Dev/cs330/cs330-hw11-1.tex",
+		"/Users/milesturpin/Dev/cs330/cs330-hw11-1 2.tex",
+		"/Users/milesturpin/Dev/stat199/project/yelp-data/review.json",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/milesturpin/Desktop/camelot.py",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/milesturpin/Dev/latex/cv_14/cv-sections/honors.tex",
+		"/Users/milesturpin/Dev/projects/prob.py",
+		"/Users/milesturpin/Dev/latex/cv_14/cv-sections/projects.tex",
+		"/Users/milesturpin/Dev/latex/cv_14/cv-sections/experience.tex",
+		"/Users/milesturpin/Dev/latex/cv_14/resume_cv.tex",
+		"/Users/milesturpin/Dev/latex/cv_14/cv-sections/skills.tex",
+		"/Users/milesturpin/Dev/latex/cv_14/cv-sections/extracurricular.tex",
+		"/Users/milesturpin/Dev/latex/cv_14/awesome-cv.cls",
+		"/Users/milesturpin/Dev/cs330/cs330-template 4.tex",
+		"/Users/milesturpin/Dev/cs330/cs330-template 3.tex",
+		"/Users/milesturpin/Dev/cs330/cs330-template 2.tex",
+		"/Users/milesturpin/Dev/cs330/cs330-hw8-1bc.tex",
+		"/Users/milesturpin/Dev/cs330/cs330-hw8-1a.tex",
+		"/Users/milesturpin/Desktop/ironman-mod.py",
+		"/Users/milesturpin/Desktop/ironman.py",
+		"/Users/milesturpin/Desktop/clear-file.py",
+		"/Users/milesturpin/Dev/Latex/phil246-m1-2.tex",
+		"/Users/milesturpin/Dev/Latex/phil246-m1-1.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw6-3.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw6-2b.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw6-1.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw6-2a.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw6-2.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw5-5.tex",
+		"/Users/milesturpin/Downloads/cs330-hw4.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw5-4.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw5-3.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw5-2.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw5-1.tex",
+		"/Users/milesturpin/Dev/Latex/cv_14/cover_letter.tex",
+		"/Users/milesturpin/Dev/Latex/phil246-wa6.tex",
+		"/Users/milesturpin/Desktop/cover-letter.tex",
+		"/Users/milesturpin/Dev/Latex/cv_14/resume_cv.tex",
+		"/Users/milesturpin/Dev/CS330/cs330-hw3.tex",
+		"/Users/milesturpin/Desktop/phil246-wa5.tex",
+		"/Users/milesturpin/Desktop/template.tex",
+		"/Users/milesturpin/Downloads/cv_14/cv-sections/skills.tex",
+		"/Users/milesturpin/Downloads/Deedy Resume/deedy_resume-openfont.tex",
+		"/Users/milesturpin/Downloads/cs330-template.tex",
+		"/Users/milesturpin/Downloads/cs330-hw3 (1).tex",
+		"/Users/milesturpin/Desktop/prob.py",
+		"/Users/milesturpin/Desktop/cs330-hw3.tex",
+		"/Users/milesturpin/Desktop/header.tex",
+		"/Users/milesturpin/Desktop/homework.py",
+		"/Users/milesturpin/Dev/leet-code/dailycode2.py",
+		"/Users/milesturpin/Dev/leet-code/dailycode1.py",
+		"/Users/milesturpin/Desktop/bubble.py",
+		"/Users/milesturpin/Dev/dailycode/3.py",
+		"/Users/milesturpin/Dev/projects/terminal.py",
+		"/Users/milesturpin/Dev/projects/gradient.py",
+		"/Users/milesturpin/Desktop/tweets_1497982751116(1).json",
+		"/Users/milesturpin/Dev/projects/twitter.sql",
+		"/Users/milesturpin/Dev/projects/kraken.py",
+		"/Users/milesturpin/Dev/projects/encrypt.py",
+		"/Users/milesturpin/Dev/CS316/2-queries.txt",
+		"/Users/milesturpin/Dev/CS316/5-create.sql",
+		"/Users/milesturpin/Dev/CS316/3-queries.sql",
+		"/Users/milesturpin/Dev/CS316/cs316-hw3/p3.xslt",
+		"/Users/milesturpin/Dev/CS316/hogwarts.xml",
+		"/Users/milesturpin/Dev/CS316/cs316-hw3/2c.xq",
+		"/Users/milesturpin/Desktop/pantry-pals-recipes-export.json",
+		"/Users/milesturpin/Desktop/tags.py",
+		"/Users/milesturpin/Desktop/query.js",
+		"/Users/milesturpin/Desktop/pantry-pals-userAccounts-export.json",
+		"/Users/milesturpin/Dev/projects/eigen.py",
+		"/Users/milesturpin/Dev/projects/ML.py",
+		"/Users/milesturpin/Dev/projects/diverseui.py",
+		"/Users/milesturpin/Dev/projects/scrape.py",
+		"/Users/milesturpin/Dev/projects/boston.py",
+		"/Users/milesturpin/Dev/projects/test.py",
+		"/Users/milesturpin/Dev/projects/homework.py",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/Kite/Kite.sublime-settings",
+		"/Users/milesturpin/Dev/p3.xslt",
+		"/Users/milesturpin/Dev/percom.xml",
+		"/Users/milesturpin/Dev/test1.xslt",
+		"/Users/milesturpin/Dev/test.xq",
+		"/Users/milesturpin/Dev/p3.xq",
+		"/Users/milesturpin/Dev/2g.xq",
+		"/Users/milesturpin/Dev/2f.xq",
+		"/Users/milesturpin/Dev/2e.xq",
+		"/Users/milesturpin/Dev/2d.xq",
+		"/Users/milesturpin/Dev/2c.xq",
+		"/Users/milesturpin/Dev/2b.xq",
+		"/Users/milesturpin/Dev/2a.xq",
+		"/Users/milesturpin/Dev/test1.xq",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/MarkLogic/MarkLogic.sublime-settings",
+		"/Users/milesturpin/Library/Application Support/Sublime Text 3/Packages/User/MarkLogic.sublime-settings",
+		"/Users/milesturpin/Dev/CS316/2a.xq",
+		"/Users/milesturpin/Dev/3-queries.sql",
+		"/Users/milesturpin/Desktop/josh.sql",
+		"/Users/milesturpin/Dev/5-create.sql",
+		"/Users/milesturpin/Dev/leet-code/pascals-triangle.py",
+		"/Users/milesturpin/Dev/leet-code/min-depth.py"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 322.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/milesturpin/Dev/projects"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 110.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 78.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 166.0
+	},
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 156.0
+	},
+	"output.latextools":
+	{
+		"height": 114.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

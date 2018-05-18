@@ -5,19 +5,20 @@ import time
 h = 0.00001
 
 def rangef(start, end, step):
-	return [i*step for i in range(start*int(1/step),end*int(1/step))]
+	return([i*step for i in range(start*int(1/step),end*int(1/step))])
 
 """
 def derivAt(fn,x):
 		return round((fn(x+h)-fn(x))/h,3)
 """
 def deriv(fn):
-	return lambda x: (fn(x+h)-fn(x))/h
+	return(lambda x: (fn(x+h)-fn(x))/h)
 
-def partial(fn, var):
-	return lambda 
+# def partial(fn, var):
+# return(lambda)
 
 #dydx_cos = deriv(math.cos())
+
 
 start = time.time()
 class Function:
@@ -32,13 +33,14 @@ class Function:
 			n = n - 1
 		return current
 
-	# def derivList(self,n):
-	# 	lst = [self.fn]
-	# 	while len(lst) < n+2:
-	# 		lst.append(deriv(lst[-1]))
-	# 	return lst
+	def derivList(self,n):
+		lst = [self.fn]
+		while len(lst) < n+2:
+			lst.append(deriv(lst[-1]))
+		return lst
 
-	def __str__(self)
+	def __str__(self):
+		return("")
 
 Cube = Function(lambda x: x*x*x - 6*x*x + 2*x - 6)
 #Cos = Function(lambda x: math.cos(x))
